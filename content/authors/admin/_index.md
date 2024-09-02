@@ -24,7 +24,8 @@ role: Lecturer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Machakos University, School of Agriculture, Environment and Health Sciences
+  - name: Machakos University, 
+  Deaprtment of Environmental Sciences
     url: https://saehs.mksu.ac.ke/
 
 # Social network links
