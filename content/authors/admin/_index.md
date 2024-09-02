@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. 
+title: Ph.D 
 
 # Name pronunciation (optional)
 name_pronunciation: John Mwanzia Musau
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+John Musau is a lecturer of Environmental Sciences at Machakos University. He is interested in biophysical interactions and feedbacks in the soil-vegetation-atmosphere interface in water limited ecosystems. His research interests focus on three main themes: (i) assessment of potential effects of climate and land use changes on water and energy balance across different spatial and temporal scales, (ii) quantification of ecosystem services resilience to environmental changes, and (iii) application of remote sensing and geographic information systems in assessment of environmental systems. Particularly, He is interested in application of models driven by Earth observation and other geospatial data to investigate the spatial and temporal patterns and impacts of past and future environmental changes.   
