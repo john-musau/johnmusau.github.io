@@ -182,5 +182,4 @@ awards:
 ---
 
 ## About Me
-
-John Musau is a lecturer of Environmental Sciences at Machakos University. He is interested in biophysical interactions and feedbacks in the soil-vegetation-atmosphere interface in water limited ecosystems. His research interests focus on three main themes: (i) assessment of potential effects of climate and land use changes on water and energy balance across different spatial and temporal scales, (ii) quantification of ecosystem services resilience to environmental changes, and (iii) application of remote sensing and geographic information systems in assessment of environmental systems. Particularly, He is interested in application of models driven by Earth observation and other geospatial data to investigate the spatial and temporal patterns and impacts of past and future environmental changes.   
+John Musau is a lecturer of Environmental Sciences at Machakos University. He is interested in biophysical interactions and feedbacks in the soil-vegetation-atmosphere interface in water limited ecosystems. His research interests focus on two main themes: (i) assessment of potential effects of climate and land use changes on water and energy balance across different spatial and temporal scales, and (ii) quantification of ecosystem services resilience to environmental changes.
